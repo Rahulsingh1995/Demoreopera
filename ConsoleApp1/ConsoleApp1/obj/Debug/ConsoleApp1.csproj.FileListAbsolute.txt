@@ -1,0 +1,6 @@
+D:\repo\Thairepotraining\Demoreopera\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\repo\Thairepotraining\Demoreopera\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\repo\Thairepotraining\Demoreopera\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\repo\Thairepotraining\Demoreopera\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\repo\Thairepotraining\Demoreopera\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\repo\Thairepotraining\Demoreopera\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
